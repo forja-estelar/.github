@@ -1,0 +1,13 @@
+# https://help.github.com/articles/about-codeowners/
+
+# Esses usuários serão os proprietários padrão para todo o código
+# nos repositórios da organização. A menos que uma correspondência
+# posterior tenha precedência, eles serão solicitados para revisão
+# quando alguém abrir um PR
+
+*       @rafapaulin
+
+# A ordem faz diferença: o último padrão correspondente tem a maior
+# precedência. Quando alguém abre um PR que modifica apenas
+# arquivos correspondentes ao padrão informado, apenas essa pessoa/grupo
+# será notificado/a para revisar o código
